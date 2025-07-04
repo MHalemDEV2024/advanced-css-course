@@ -3,12 +3,6 @@
 > The most advanced and modern CSS course on the internet: master Flexbox, CSS Grid, responsive design, and more.
 
 ![Udemy](https://img.shields.io/badge/Udemy-Course-orange)  
-📚 **Instructor**: Jonas Schmedtmann  
-📅 **Last updated**: November 2024  
-🎓 **Skill level**: Intermediate  
-🎥 **Total Video Time**: 28 Hours  
-🧑‍🎓 **Students**: 220,000+  
-⭐ **Rating**: 4.7 (45,000+ ratings)
 
 ---
 
